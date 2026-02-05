@@ -1,7 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Sandip Dhungana! 
+
+<h2>👨‍💻 IT Help Desk Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [OS Ticket Help Desk System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- [Network Troubleshooting with Azure NSGs](https://github.com/joshmadakor1/Sentinel-Lab)
+  
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/_.sandippppp/
+[linkedin]: https://www.linkedin.com/in/sandipdhungana
+
 
 <!--
-**startinganitcarrer/startinganitcarrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
