@@ -7,6 +7,9 @@
 - [Network Troubleshooting with Azure NSGs](https://github.com/joshmadakor1/Sentinel-Lab)
   
 
+<h2>Certifications:</h2>
+
+- [CompTIA A+](https://www.credly.com/badges/0b7514fb-684d-4196-adf6-7886372c78fc/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
