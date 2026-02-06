@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/startinganitcarrer/Active-Directory-Lab)
 - [OS Ticket Help Desk System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - [Network Troubleshooting with Azure NSGs](https://github.com/joshmadakor1/Sentinel-Lab)
   
