@@ -3,7 +3,8 @@
 ### IT Helpdesk Support | IT Technician | Active Directory | Azure | Office 365 | VMware
 
 I'm an aspiring IT Support Specialist based in Canada, passionate about troubleshooting, system administration, and building real-world IT labs.  
-I enjoy creating hands-on projects that simulate enterprise environments — from Active Directory to osTicket help desk systems.
+
+I enjoy creating hands-on projects that simulate enterprise environments from Active Directory to osTicket help desk systems.
 
 ---
 
